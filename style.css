@@ -1,0 +1,13 @@
+#floating-menu {
+    overflow: hidden;
+    background-color: rgb(2, 138, 143);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+
+.nav-link {
+    display: block;
+    color: white;
+}
